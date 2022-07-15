@@ -1,4 +1,4 @@
-# Glitter
+# Glitter | Grade 95
 
 > Magshimim Networks course final project
 
